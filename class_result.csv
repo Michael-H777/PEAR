@@ -1,0 +1,1382 @@
+,class_name,total_samples,dataset
+0,alfa-sprouts,41,FoodRecChallenge
+1,almonds,169,FoodRecChallenge
+2,apple,542,FoodRecChallenge
+3,apple-pie,110,FoodRecChallenge
+4,applesauce-unsweetened-canned,43,FoodRecChallenge
+5,apricots,98,FoodRecChallenge
+6,artichoke,49,FoodRecChallenge
+7,avocado,317,FoodRecChallenge
+8,bacon-cooking,53,FoodRecChallenge
+9,bacon-frying,131,FoodRecChallenge
+10,balsamic-salad-dressing,122,FoodRecChallenge
+11,banana,440,FoodRecChallenge
+12,beans-kidney,41,FoodRecChallenge
+13,beef,88,FoodRecChallenge
+14,beef-cut-into-stripes-only-meat,46,FoodRecChallenge
+15,beef-filet,53,FoodRecChallenge
+16,beef-minced-only-meat,70,FoodRecChallenge
+17,beef-sirloin-steak,45,FoodRecChallenge
+18,beer,166,FoodRecChallenge
+19,beetroot-raw,50,FoodRecChallenge
+20,beetroot-steamed-without-addition-of-salt,93,FoodRecChallenge
+21,berries,67,FoodRecChallenge
+22,bircherma1-4esli-prepared-no-sugar-added,101,FoodRecChallenge
+23,biscuits,149,FoodRecChallenge
+24,black-olives,140,FoodRecChallenge
+25,blue-mould-cheese,71,FoodRecChallenge
+26,blueberries,166,FoodRecChallenge
+27,boisson-au-glucose-50g,182,FoodRecChallenge
+28,bolognaise-sauce,96,FoodRecChallenge
+29,braided-white-loaf,199,FoodRecChallenge
+30,bread,67,FoodRecChallenge
+31,bread-5-grain,54,FoodRecChallenge
+32,bread-black,60,FoodRecChallenge
+33,bread-french-white-flour,128,FoodRecChallenge
+34,bread-fruit,52,FoodRecChallenge
+35,bread-grain,111,FoodRecChallenge
+36,bread-half-white,78,FoodRecChallenge
+37,bread-nut,60,FoodRecChallenge
+38,bread-pita,41,FoodRecChallenge
+39,bread-rye,50,FoodRecChallenge
+40,bread-sourdough,131,FoodRecChallenge
+41,bread-toast,77,FoodRecChallenge
+42,bread-white,1341,FoodRecChallenge
+43,bread-whole-wheat,234,FoodRecChallenge
+44,bread-wholemeal,952,FoodRecChallenge
+45,bread-wholemeal-toast,69,FoodRecChallenge
+46,breadcrumbs-unspiced,58,FoodRecChallenge
+47,brioche,48,FoodRecChallenge
+48,broccoli,273,FoodRecChallenge
+49,brownie,47,FoodRecChallenge
+50,butter,1057,FoodRecChallenge
+51,butter-spread-puree-almond,45,FoodRecChallenge
+52,cake-chocolate,155,FoodRecChallenge
+53,cappuccino,145,FoodRecChallenge
+54,caprese-salad-tomato-mozzarella,90,FoodRecChallenge
+55,carrot,937,FoodRecChallenge
+56,cashew-nut,81,FoodRecChallenge
+57,cauliflower,123,FoodRecChallenge
+58,celeriac,56,FoodRecChallenge
+59,cheese,427,FoodRecChallenge
+60,cheese-for-raclette,82,FoodRecChallenge
+61,chicken,292,FoodRecChallenge
+62,chicken-breast,94,FoodRecChallenge
+63,chicken-curry-cream-coconut-milk-curry-spices-paste,88,FoodRecChallenge
+64,chicken-cut-into-stripes-only-meat,75,FoodRecChallenge
+65,chicken-leg,63,FoodRecChallenge
+66,chickpeas,99,FoodRecChallenge
+67,chips-french-fries,254,FoodRecChallenge
+68,chocolate,88,FoodRecChallenge
+69,chocolate-cookies,43,FoodRecChallenge
+70,chocolate-mousse,53,FoodRecChallenge
+71,coffee-with-caffeine,918,FoodRecChallenge
+72,cookies,61,FoodRecChallenge
+73,corn,134,FoodRecChallenge
+74,corn-crisps,49,FoodRecChallenge
+75,cottage-cheese,71,FoodRecChallenge
+76,country-fries,57,FoodRecChallenge
+77,couscous,81,FoodRecChallenge
+78,craape-plain,108,FoodRecChallenge
+79,cream,42,FoodRecChallenge
+80,cream-cheese,54,FoodRecChallenge
+81,crisps,77,FoodRecChallenge
+82,croissant,163,FoodRecChallenge
+83,croissant-with-chocolate-filling,68,FoodRecChallenge
+84,crunch-ma1-4esli,48,FoodRecChallenge
+85,cucumber,410,FoodRecChallenge
+86,curry-vegetarian,95,FoodRecChallenge
+87,dairy-ice-cream,164,FoodRecChallenge
+88,dark-chocolate,220,FoodRecChallenge
+89,dates,47,FoodRecChallenge
+90,dried-meat,150,FoodRecChallenge
+91,dried-raisins,48,FoodRecChallenge
+92,egg,662,FoodRecChallenge
+93,egg-scrambled-prepared,95,FoodRecChallenge
+94,eggplant,145,FoodRecChallenge
+95,espresso-with-caffeine,407,FoodRecChallenge
+96,fajita-bread-only,59,FoodRecChallenge
+97,falafel-balls,41,FoodRecChallenge
+98,fennel,137,FoodRecChallenge
+99,feta,113,FoodRecChallenge
+100,fish,122,FoodRecChallenge
+101,flakes-oat,49,FoodRecChallenge
+102,focaccia,46,FoodRecChallenge
+103,french-beans,167,FoodRecChallenge
+104,french-salad-dressing,101,FoodRecChallenge
+105,fresh-cheese,55,FoodRecChallenge
+106,fruit-coulis,42,FoodRecChallenge
+107,fruit-salad,104,FoodRecChallenge
+108,fruit-tart,51,FoodRecChallenge
+109,frying-sausage,41,FoodRecChallenge
+110,gluten-free-bread,70,FoodRecChallenge
+111,goat-cheese-soft,60,FoodRecChallenge
+112,grapes,99,FoodRecChallenge
+113,greek-salad,44,FoodRecChallenge
+114,greek-yaourt-yahourt-yogourt-ou-yoghourt,41,FoodRecChallenge
+115,green-asparagus,139,FoodRecChallenge
+116,green-bean-steamed-without-addition-of-salt,43,FoodRecChallenge
+117,green-olives,94,FoodRecChallenge
+118,grits-polenta-maize-flour,58,FoodRecChallenge
+119,gruya-re,196,FoodRecChallenge
+120,guacamole,88,FoodRecChallenge
+121,ham-cooked,163,FoodRecChallenge
+122,ham-croissant,46,FoodRecChallenge
+123,ham-raw,167,FoodRecChallenge
+124,hamburger-bread-meat-ketchup,113,FoodRecChallenge
+125,hard-cheese,335,FoodRecChallenge
+126,hazelnut,40,FoodRecChallenge
+127,hazelnut-chocolate-spread-nutella-ovomaltine-caotina,49,FoodRecChallenge
+128,herbal-tea,131,FoodRecChallenge
+129,honey,240,FoodRecChallenge
+130,hummus,123,FoodRecChallenge
+131,ice-tea,45,FoodRecChallenge
+132,jam,530,FoodRecChallenge
+133,juice-apple,47,FoodRecChallenge
+134,juice-orange,176,FoodRecChallenge
+135,kefir-drink,46,FoodRecChallenge
+136,ketchup,90,FoodRecChallenge
+137,kiwi,129,FoodRecChallenge
+138,kolhrabi,55,FoodRecChallenge
+139,lasagne-meat-prepared,58,FoodRecChallenge
+140,leaf-spinach,200,FoodRecChallenge
+141,leek,69,FoodRecChallenge
+142,lemon,75,FoodRecChallenge
+143,lentils,86,FoodRecChallenge
+144,ma1-4esli,79,FoodRecChallenge
+145,mandarine,147,FoodRecChallenge
+146,mango,65,FoodRecChallenge
+147,mashed-potatoes-prepared-with-full-fat-milk-with-butter,100,FoodRecChallenge
+148,mayonnaise,213,FoodRecChallenge
+149,meat-terrine-pata-c,46,FoodRecChallenge
+150,milk,110,FoodRecChallenge
+151,milk-chocolate,75,FoodRecChallenge
+152,mixed-nuts,172,FoodRecChallenge
+153,mixed-salad-chopped-without-sauce,402,FoodRecChallenge
+154,mixed-seeds,51,FoodRecChallenge
+155,mixed-vegetables,661,FoodRecChallenge
+156,mozzarella,142,FoodRecChallenge
+157,mushroom,73,FoodRecChallenge
+158,mushrooms,124,FoodRecChallenge
+159,nectarine,72,FoodRecChallenge
+160,oil-vinegar-salad-dressing,53,FoodRecChallenge
+161,omelette-plain,65,FoodRecChallenge
+162,onion,155,FoodRecChallenge
+163,orange,145,FoodRecChallenge
+164,pancakes,51,FoodRecChallenge
+165,parmesan,216,FoodRecChallenge
+166,pasta,144,FoodRecChallenge
+167,pasta-haprnli,65,FoodRecChallenge
+168,pasta-linguini-parpadelle-tagliatelle,82,FoodRecChallenge
+169,pasta-noodles,51,FoodRecChallenge
+170,pasta-penne,144,FoodRecChallenge
+171,pasta-spaghetti,264,FoodRecChallenge
+172,pasta-twist,103,FoodRecChallenge
+173,pasta-wholemeal,87,FoodRecChallenge
+174,peach,55,FoodRecChallenge
+175,peanut,71,FoodRecChallenge
+176,peanut-butter,55,FoodRecChallenge
+177,pear,157,FoodRecChallenge
+178,peas,77,FoodRecChallenge
+179,pickle,147,FoodRecChallenge
+180,pineapple,55,FoodRecChallenge
+181,pistachio,68,FoodRecChallenge
+182,pizza-margherita-baked,213,FoodRecChallenge
+183,pizza-with-ham-baked,45,FoodRecChallenge
+184,pizza-with-vegetables-baked,63,FoodRecChallenge
+185,plums,49,FoodRecChallenge
+186,pomegranate,74,FoodRecChallenge
+187,pork,71,FoodRecChallenge
+188,potato-gnocchi,62,FoodRecChallenge
+189,potatoes-au-gratin-dauphinois-prepared,51,FoodRecChallenge
+190,potatoes-steamed,477,FoodRecChallenge
+191,praline,83,FoodRecChallenge
+192,pumpkin,51,FoodRecChallenge
+193,quiche-with-cheese-baked-with-puff-pastry,53,FoodRecChallenge
+194,quinoa,126,FoodRecChallenge
+195,raspberries,116,FoodRecChallenge
+196,ratatouille,100,FoodRecChallenge
+197,red-cabbage,84,FoodRecChallenge
+198,red-radish,148,FoodRecChallenge
+199,rice,688,FoodRecChallenge
+200,rice-basmati,69,FoodRecChallenge
+201,rice-noodles-vermicelli,52,FoodRecChallenge
+202,rice-whole-grain,46,FoodRecChallenge
+203,risotto-without-cheese-cooked,125,FoodRecChallenge
+204,ristretto-with-caffeine,87,FoodRecChallenge
+205,roll-of-half-white-or-white-flour-with-large-void,55,FoodRecChallenge
+206,roll-with-pieces-of-chocolate,55,FoodRecChallenge
+207,rosti,53,FoodRecChallenge
+208,rusk-wholemeal,43,FoodRecChallenge
+209,salad-dressing,88,FoodRecChallenge
+210,salad-lambs-ear,105,FoodRecChallenge
+211,salad-leaf-salad-green,1254,FoodRecChallenge
+212,salad-rocket,135,FoodRecChallenge
+213,salami,180,FoodRecChallenge
+214,salmon,183,FoodRecChallenge
+215,salmon-smoked,166,FoodRecChallenge
+216,salt-cake-vegetables-filled,70,FoodRecChallenge
+217,sauce-cream,137,FoodRecChallenge
+218,sauce-mushroom,43,FoodRecChallenge
+219,sauce-pesto,78,FoodRecChallenge
+220,sauce-roast,81,FoodRecChallenge
+221,sauce-savoury,133,FoodRecChallenge
+222,sauce-soya,42,FoodRecChallenge
+223,sausage,82,FoodRecChallenge
+224,savoury-puff-pastry,52,FoodRecChallenge
+225,semi-hard-cheese,106,FoodRecChallenge
+226,sesame-seeds,46,FoodRecChallenge
+227,shrimp-prawn-large,70,FoodRecChallenge
+228,shrimp-prawn-small,61,FoodRecChallenge
+229,soft-cheese,190,FoodRecChallenge
+230,soup-of-lentils-dahl-dhal,46,FoodRecChallenge
+231,soup-pumpkin,89,FoodRecChallenge
+232,soup-vegetable,97,FoodRecChallenge
+233,sour-cream,57,FoodRecChallenge
+234,spaetzle,60,FoodRecChallenge
+235,strawberries,257,FoodRecChallenge
+236,sugar-melon,106,FoodRecChallenge
+237,sushi,64,FoodRecChallenge
+238,sweet-pepper,293,FoodRecChallenge
+239,sweet-potato,127,FoodRecChallenge
+240,syrup-diluted-ready-to-drink,53,FoodRecChallenge
+241,taboula-c-prepared-with-couscous,54,FoodRecChallenge
+242,tart,105,FoodRecChallenge
+243,tea,382,FoodRecChallenge
+244,tea-black,112,FoodRecChallenge
+245,tea-green,144,FoodRecChallenge
+246,tea-peppermint,41,FoodRecChallenge
+247,tea-verveine,42,FoodRecChallenge
+248,thickened-cream-35,86,FoodRecChallenge
+249,tiramisu,59,FoodRecChallenge
+250,tofu,128,FoodRecChallenge
+251,tomato,1124,FoodRecChallenge
+252,tomato-sauce,305,FoodRecChallenge
+253,tomme,54,FoodRecChallenge
+254,tuna,102,FoodRecChallenge
+255,veal-sausage,46,FoodRecChallenge
+256,vegetable-au-gratin-baked,53,FoodRecChallenge
+257,vegetable-mix-peas-and-carrots,43,FoodRecChallenge
+258,veggie-burger,40,FoodRecChallenge
+259,walnut,106,FoodRecChallenge
+260,water,1934,FoodRecChallenge
+261,water-mineral,194,FoodRecChallenge
+262,water-with-lemon-juice,88,FoodRecChallenge
+263,watermelon-fresh,60,FoodRecChallenge
+264,white-asparagus,56,FoodRecChallenge
+265,white-cabbage,53,FoodRecChallenge
+266,white-coffee-with-caffeine,288,FoodRecChallenge
+267,wine-red,569,FoodRecChallenge
+268,wine-rosa-c,71,FoodRecChallenge
+269,wine-white,348,FoodRecChallenge
+270,witloof-chicory,105,FoodRecChallenge
+271,yaourt-yahourt-yogourt-ou-yoghourt-natural,146,FoodRecChallenge
+272,zucchini,245,FoodRecChallenge
+273,Abalone,84,ISIAFood_500
+274,Aburaage,85,ISIAFood_500
+275,Agedashi_tofu,90,ISIAFood_500
+276,Aligot,83,ISIAFood_500
+277,Almond_biscuit,91,ISIAFood_500
+278,Aloo_gobi,86,ISIAFood_500
+279,Ambrosia_(fruit_salad),99,ISIAFood_500
+280,Anago,82,ISIAFood_500
+281,Andong_jjimdak,91,ISIAFood_500
+282,Ants_climbing_a_tree,97,ISIAFood_500
+283,Anzac_biscuit,90,ISIAFood_500
+284,Apple_cobbler,90,ISIAFood_500
+285,Apple_crisp,88,ISIAFood_500
+286,Apple_dumpling,91,ISIAFood_500
+287,Apple_pie,86,ISIAFood_500
+288,Apple_sauce,88,ISIAFood_500
+289,Apple_strudel,90,ISIAFood_500
+290,Applesauce_cake,92,ISIAFood_500
+291,Arab_salad,87,ISIAFood_500
+292,Arancini,85,ISIAFood_500
+293,Arròs_negre,88,ISIAFood_500
+294,Asam_pedas,87,ISIAFood_500
+295,Avocado_bread,90,ISIAFood_500
+296,Avocado_fries,90,ISIAFood_500
+297,Avocado_key_lime_pie,97,ISIAFood_500
+298,Avocado_sauce,90,ISIAFood_500
+299,Avocado_toast,90,ISIAFood_500
+300,Ayam_bakar,87,ISIAFood_500
+301,Ayam_betutu,88,ISIAFood_500
+302,Ayam_goreng,88,ISIAFood_500
+303,BLT_sandwich,89,ISIAFood_500
+304,Babi_panggang,90,ISIAFood_500
+305,Bacon_and_eggs,91,ISIAFood_500
+306,Bacon_egg_and_cheese_sandwich,106,ISIAFood_500
+307,Bacon_explosion,92,ISIAFood_500
+308,Bacon_sandwich,91,ISIAFood_500
+309,Baingan_bharta,91,ISIAFood_500
+310,Baked_beans,88,ISIAFood_500
+311,Banana_bread,89,ISIAFood_500
+312,Banana_pancakes,92,ISIAFood_500
+313,Banana_pudding,91,ISIAFood_500
+314,Banana_salad,89,ISIAFood_500
+315,Banana_split,89,ISIAFood_500
+316,Bandeja_paisa,90,ISIAFood_500
+317,Bangers_and_mash,93,ISIAFood_500
+318,Banh_bo,84,ISIAFood_500
+319,Bean_pie,85,ISIAFood_500
+320,Bean_salad,87,ISIAFood_500
+321,Beef_Wellington,92,ISIAFood_500
+322,Beef_bun,85,ISIAFood_500
+323,Beef_chow_fun,90,ISIAFood_500
+324,Beef_noodle_soup,93,ISIAFood_500
+325,Beignet,84,ISIAFood_500
+326,Bibimbap,85,ISIAFood_500
+327,Bibingka,85,ISIAFood_500
+328,Biryani,84,ISIAFood_500
+329,Bisque_food,88,ISIAFood_500
+330,Bistek,83,ISIAFood_500
+331,Black_Forest_gateau,96,ISIAFood_500
+332,Black_pepper_crab,94,ISIAFood_500
+333,Blackberry_pie,91,ISIAFood_500
+334,Blancmange,87,ISIAFood_500
+335,Blueberry_pie,90,ISIAFood_500
+336,Boiled_beef,88,ISIAFood_500
+337,Boiled_peanuts,91,ISIAFood_500
+338,Bon_bon_chicken,92,ISIAFood_500
+339,Borscht,84,ISIAFood_500
+340,Botan-ebi,86,ISIAFood_500
+341,Botifarra,86,ISIAFood_500
+342,Bouillabaisse,90,ISIAFood_500
+343,Bourbon_chicken,92,ISIAFood_500
+344,Bread_roll,87,ISIAFood_500
+345,Broccoli_slaw,90,ISIAFood_500
+346,Brown_stew_chicken,95,ISIAFood_500
+347,Bruschetta,87,ISIAFood_500
+348,Bubur_ayam,87,ISIAFood_500
+349,Bubur_kacang_hijau,95,ISIAFood_500
+350,Bugnes,83,ISIAFood_500
+351,Bun_bo_hue,87,ISIAFood_500
+352,Burrito,84,ISIAFood_500
+353,Butadon,84,ISIAFood_500
+354,Butter_cake,88,ISIAFood_500
+355,Butter_pecan,89,ISIAFood_500
+356,Butter_pie,87,ISIAFood_500
+357,Buttercream,88,ISIAFood_500
+358,Buttery_bread,90,ISIAFood_500
+359,Bánh_canh,86,ISIAFood_500
+360,Bánh_chuối,87,ISIAFood_500
+361,Bún_riêu,85,ISIAFood_500
+362,Bún_ốc,83,ISIAFood_500
+363,Cabbage_soup,89,ISIAFood_500
+364,Caesar_salad,89,ISIAFood_500
+365,Café_liégeois,90,ISIAFood_500
+366,Calamari,85,ISIAFood_500
+367,Caldo_verde,88,ISIAFood_500
+368,Caprese_salad,90,ISIAFood_500
+369,Carpaccio,86,ISIAFood_500
+370,Carrot_bread,89,ISIAFood_500
+371,Carrot_cake,88,ISIAFood_500
+372,Carrot_cake_cookie,95,ISIAFood_500
+373,Carrot_chips,89,ISIAFood_500
+374,Carrot_juice,89,ISIAFood_500
+375,Carrot_salad,89,ISIAFood_500
+376,Carrot_soup,88,ISIAFood_500
+377,Cassoulet,86,ISIAFood_500
+378,Cebolada,85,ISIAFood_500
+379,Ceviche,84,ISIAFood_500
+380,Chakli,83,ISIAFood_500
+381,Champurrado,88,ISIAFood_500
+382,Char_kway_teow,91,ISIAFood_500
+383,Charqui,84,ISIAFood_500
+384,Chazuke,84,ISIAFood_500
+385,Cheese_and_tomato_sandwich,103,ISIAFood_500
+386,Cheese_bun,87,ISIAFood_500
+387,Cheese_fries,89,ISIAFood_500
+388,Cheese_maki,88,ISIAFood_500
+389,Cheese_pudding,91,ISIAFood_500
+390,Cheese_roll,88,ISIAFood_500
+391,Cheesecake,87,ISIAFood_500
+392,Cherry_cake,88,ISIAFood_500
+393,Cherry_ice_cream,93,ISIAFood_500
+394,Cherry_pie,87,ISIAFood_500
+395,Chicken_Kiev,89,ISIAFood_500
+396,Chicken_and_waffles,96,ISIAFood_500
+397,Chicken_cacciatore,95,ISIAFood_500
+398,Chicken_curry,90,ISIAFood_500
+399,Chicken_fingers,92,ISIAFood_500
+400,Chicken_marsala,92,ISIAFood_500
+401,Chicken_noodle_soup,96,ISIAFood_500
+402,Chicken_nugget,91,ISIAFood_500
+403,Chicken_parmigiana,95,ISIAFood_500
+404,Chicken_salad,90,ISIAFood_500
+405,Chicken_soup,89,ISIAFood_500
+406,Chiles_en_nogada,93,ISIAFood_500
+407,Chili_con_carne,92,ISIAFood_500
+408,Chilli_crab,88,ISIAFood_500
+409,Chinese_chicken_salad,98,ISIAFood_500
+410,Chocolate_covered_strawberries,107,ISIAFood_500
+411,Chocolate_marshmallow_pie,102,ISIAFood_500
+412,Chow_mein,86,ISIAFood_500
+413,Chowder,84,ISIAFood_500
+414,Christmas_cake,91,ISIAFood_500
+415,Churro,83,ISIAFood_500
+416,Ciambelle,86,ISIAFood_500
+417,Clam_chowder,89,ISIAFood_500
+418,Claypot_chicken_rice,97,ISIAFood_500
+419,Club_sandwich,90,ISIAFood_500
+420,Cobbler_food,89,ISIAFood_500
+421,Coconut_cake,89,ISIAFood_500
+422,Coconut_cream,90,ISIAFood_500
+423,Coconut_shrimp,91,ISIAFood_500
+424,Coda_alla_vaccinara,96,ISIAFood_500
+425,Coffee_jelly,89,ISIAFood_500
+426,Colcannon,86,ISIAFood_500
+427,Coleslaw,85,ISIAFood_500
+428,Congee,83,ISIAFood_500
+429,Corn_chip,86,ISIAFood_500
+430,Corn_crab_soup,91,ISIAFood_500
+431,Corn_dog,85,ISIAFood_500
+432,Corn_soup,86,ISIAFood_500
+433,Corn_stew,86,ISIAFood_500
+434,Corn_tortilla,90,ISIAFood_500
+435,Corned_beef_sandwich,97,ISIAFood_500
+436,Cotoletta,86,ISIAFood_500
+437,Crab_cake,86,ISIAFood_500
+438,Crab_dip,85,ISIAFood_500
+439,Crab_in_Padang_sauce,97,ISIAFood_500
+440,Crab_puff,86,ISIAFood_500
+441,Crab_rangoon,89,ISIAFood_500
+442,Cream_of_broccoli_soup,99,ISIAFood_500
+443,Cream_of_mushroom_soup,99,ISIAFood_500
+444,Cream_pie,86,ISIAFood_500
+445,Creamed_eggs_on_toast,98,ISIAFood_500
+446,Croissant,86,ISIAFood_500
+447,Crudo,82,ISIAFood_500
+448,Crumble,84,ISIAFood_500
+449,Cucumber_soup,90,ISIAFood_500
+450,Cured_salmon,89,ISIAFood_500
+451,Curry_Mee,86,ISIAFood_500
+452,Curry_goat,87,ISIAFood_500
+453,Curry_rice,87,ISIAFood_500
+454,Currywurst,87,ISIAFood_500
+455,Dandan_noodles,91,ISIAFood_500
+456,Deep-fried_peanuts,95,ISIAFood_500
+457,Denver_omelette,92,ISIAFood_500
+458,Denver_sandwich,92,ISIAFood_500
+459,Dhokla,83,ISIAFood_500
+460,Di_san_xian,88,ISIAFood_500
+461,Dinuguan,85,ISIAFood_500
+462,Dirty_Rice,87,ISIAFood_500
+463,Dong'an_chicken,92,ISIAFood_500
+464,Doufunao,85,ISIAFood_500
+465,Doughnut,85,ISIAFood_500
+466,Drunken_chicken,92,ISIAFood_500
+467,Drunken_shrimp,91,ISIAFood_500
+468,Duck_soup_noodles,94,ISIAFood_500
+469,Edamame,84,ISIAFood_500
+470,Eggplant_omelette,94,ISIAFood_500
+471,Eisbein,84,ISIAFood_500
+472,Es_campur,86,ISIAFood_500
+473,Es_pisang_ijo,90,ISIAFood_500
+474,Filet_mignon,89,ISIAFood_500
+475,Fish_ball,86,ISIAFood_500
+476,Fish_chowder,89,ISIAFood_500
+477,Fish_head_casserole,96,ISIAFood_500
+478,Fish_head_curry,92,ISIAFood_500
+479,Fish_soup,86,ISIAFood_500
+480,Fish_steak,87,ISIAFood_500
+481,Fishcake,85,ISIAFood_500
+482,Fondue,83,ISIAFood_500
+483,Francesinha,88,ISIAFood_500
+484,Frappe,83,ISIAFood_500
+485,French_onion_soup,94,ISIAFood_500
+486,French_toast,89,ISIAFood_500
+487,Fricassee,86,ISIAFood_500
+488,Fried_Tofu,87,ISIAFood_500
+489,Fried_aubergine,92,ISIAFood_500
+490,Fried_cheese,89,ISIAFood_500
+491,Fried_chicken,90,ISIAFood_500
+492,Fried_noodles,90,ISIAFood_500
+493,Fried_onion,88,ISIAFood_500
+494,Fried_rice,87,ISIAFood_500
+495,Fruit_curd,87,ISIAFood_500
+496,Fuqi_feipian,89,ISIAFood_500
+497,Galbi,82,ISIAFood_500
+498,Garlic_bread,89,ISIAFood_500
+499,Gejang,83,ISIAFood_500
+500,Ginger_beef,88,ISIAFood_500
+501,Goulash,84,ISIAFood_500
+502,Gołąbki,84,ISIAFood_500
+503,Gravlax,84,ISIAFood_500
+504,Greek_salad,88,ISIAFood_500
+505,Green_bean_casserole,97,ISIAFood_500
+506,Green_papaya_salad,95,ISIAFood_500
+507,Grits,82,ISIAFood_500
+508,Gulai_Ayam,87,ISIAFood_500
+509,Gyutan,83,ISIAFood_500
+510,Hae_mee,84,ISIAFood_500
+511,Hainanese_chicken_rice,99,ISIAFood_500
+512,Ham_and_cheese_sandwich,100,ISIAFood_500
+513,Ham_salad,86,ISIAFood_500
+514,Ham_sandwich,89,ISIAFood_500
+515,Har_gow,84,ISIAFood_500
+516,Hiyayakko,86,ISIAFood_500
+517,Hokkien_mee,88,ISIAFood_500
+518,Hongshao_rou,89,ISIAFood_500
+519,Hoppin'_John,89,ISIAFood_500
+520,Hot_and_sour_soup,94,ISIAFood_500
+521,Huangqiao_sesame_cake,98,ISIAFood_500
+522,Huevos_rancheros,93,ISIAFood_500
+523,Hummus,83,ISIAFood_500
+524,Ikan_bakar,87,ISIAFood_500
+525,Ikan_goreng,88,ISIAFood_500
+526,Israeli_salad,90,ISIAFood_500
+527,Italian_tomato_pie,95,ISIAFood_500
+528,Jajangmyeon,88,ISIAFood_500
+529,Jambalaya,86,ISIAFood_500
+530,Jambonneau,87,ISIAFood_500
+531,Japchae,84,ISIAFood_500
+532,Jewish_apple_cake,94,ISIAFood_500
+533,Jiuniang,85,ISIAFood_500
+534,Kachori,84,ISIAFood_500
+535,Kadhi,82,ISIAFood_500
+536,Kakuni,83,ISIAFood_500
+537,Katsudon,85,ISIAFood_500
+538,Kedgeree,85,ISIAFood_500
+539,Key_lime_pie,89,ISIAFood_500
+540,Konnyaku,85,ISIAFood_500
+541,Korean_fried_chicken,97,ISIAFood_500
+542,Kung_Pao_chicken,93,ISIAFood_500
+543,Kwetiau_goreng,91,ISIAFood_500
+544,Laddu,82,ISIAFood_500
+545,Laksa,82,ISIAFood_500
+546,Lamb_chop,86,ISIAFood_500
+547,Lasagna,84,ISIAFood_500
+548,Lebkuchen,86,ISIAFood_500
+549,Leek_soup,86,ISIAFood_500
+550,Lemon_chicken,90,ISIAFood_500
+551,Lemon_ice_box_pie,94,ISIAFood_500
+552,Lemon_meringue_pie,95,ISIAFood_500
+553,Lemon_tart,87,ISIAFood_500
+554,Lemonade,85,ISIAFood_500
+555,Lentil_soup,88,ISIAFood_500
+556,Lettuce_soup,89,ISIAFood_500
+557,Lo_mein,84,ISIAFood_500
+558,Lobster_bisque,91,ISIAFood_500
+559,Lohikeitto,87,ISIAFood_500
+560,Macaron,84,ISIAFood_500
+561,Mango_pomelo_sago,94,ISIAFood_500
+562,Mango_pudding,90,ISIAFood_500
+563,Mapo_doufu,87,ISIAFood_500
+564,Meatloaf,85,ISIAFood_500
+565,Mee_pok,84,ISIAFood_500
+566,Mee_siam,85,ISIAFood_500
+567,Melt_sandwich,90,ISIAFood_500
+568,Menudo,83,ISIAFood_500
+569,Michigan_hot_dog,93,ISIAFood_500
+570,Mie_goreng,87,ISIAFood_500
+571,Milk_Shake,87,ISIAFood_500
+572,Minestrone,87,ISIAFood_500
+573,Mirchi_ka_salan,92,ISIAFood_500
+574,Mission_burrito,92,ISIAFood_500
+575,Mongolian_beef,91,ISIAFood_500
+576,Mousse,83,ISIAFood_500
+577,Mozzarella_sticks,94,ISIAFood_500
+578,Mushroom_gravy,91,ISIAFood_500
+579,Mushy_peas,87,ISIAFood_500
+580,Mutton_handi,89,ISIAFood_500
+581,Mutton_korma,89,ISIAFood_500
+582,Mì_Quảng,85,ISIAFood_500
+583,Nachos,83,ISIAFood_500
+584,Naengmyeon,87,ISIAFood_500
+585,Nasi_goreng,88,ISIAFood_500
+586,Nasi_kuning,88,ISIAFood_500
+587,Nasi_liwet,87,ISIAFood_500
+588,Nattō,82,ISIAFood_500
+589,Noodle_soup,88,ISIAFood_500
+590,Nuomici,84,ISIAFood_500
+591,Okinawa_soba,89,ISIAFood_500
+592,Olivier_salad,90,ISIAFood_500
+593,Onigiri,84,ISIAFood_500
+594,Onion_ring,87,ISIAFood_500
+595,Orange_chicken,91,ISIAFood_500
+596,Oyster_omelette,92,ISIAFood_500
+597,Oysters_Rockefeller,96,ISIAFood_500
+598,Paella,83,ISIAFood_500
+599,Pakora,83,ISIAFood_500
+600,Panzanella,87,ISIAFood_500
+601,Pappa_al_pomodoro,94,ISIAFood_500
+602,Parmigiana,87,ISIAFood_500
+603,Pasta,82,ISIAFood_500
+604,Pasta_al_pomodoro,94,ISIAFood_500
+605,Pasta_alla_Norma,93,ISIAFood_500
+606,Pasteis_de_Bacalhau,96,ISIAFood_500
+607,Paupiette,86,ISIAFood_500
+608,Payasam,84,ISIAFood_500
+609,Pea_soup,85,ISIAFood_500
+610,Peanut_butter_cookie,97,ISIAFood_500
+611,Peanut_soup,88,ISIAFood_500
+612,Pho,80,ISIAFood_500
+613,Pickled_cucumber,93,ISIAFood_500
+614,Pig's_ear,86,ISIAFood_500
+615,Pig's_organ_soup,93,ISIAFood_500
+616,Pig's_trotters,91,ISIAFood_500
+617,Pineapple_tart,91,ISIAFood_500
+618,Pipikaula,86,ISIAFood_500
+619,Pizza_carbonara,92,ISIAFood_500
+620,Pizza_pugliese,91,ISIAFood_500
+621,Plateau_de_fruits_de_mer,101,ISIAFood_500
+622,Plum_cake,86,ISIAFood_500
+623,Pommes_dauphine,92,ISIAFood_500
+624,Poori,82,ISIAFood_500
+625,Porchetta,86,ISIAFood_500
+626,Pork_Knuckles_and_Ginger_Stew,106,ISIAFood_500
+627,Pork_ball,86,ISIAFood_500
+628,Pork_blood_soup,92,ISIAFood_500
+629,Pork_knuckle,89,ISIAFood_500
+630,Pork_ribs,86,ISIAFood_500
+631,Pork_tenderloin,92,ISIAFood_500
+632,Pork_tenderloin_sandwich,101,ISIAFood_500
+633,Pot_roast,86,ISIAFood_500
+634,Potato_salad,89,ISIAFood_500
+635,Poutine,84,ISIAFood_500
+636,Prawn_cocktail,91,ISIAFood_500
+637,Prawn_soup,87,ISIAFood_500
+638,Princess_cake,90,ISIAFood_500
+639,Profiterole,88,ISIAFood_500
+640,Pudding_corn,89,ISIAFood_500
+641,Pulled_pork,88,ISIAFood_500
+642,Pumpkin_bread,90,ISIAFood_500
+643,Pumpkin_pie,88,ISIAFood_500
+644,Pączki,83,ISIAFood_500
+645,Quesadilla,87,ISIAFood_500
+646,Queso_flameado,91,ISIAFood_500
+647,Quiche_Lorraine,92,ISIAFood_500
+648,Rack_of_lamb,89,ISIAFood_500
+649,Raita,82,ISIAFood_500
+650,Ramen,82,ISIAFood_500
+651,Red_bean_cake,90,ISIAFood_500
+652,Red_bean_ice,89,ISIAFood_500
+653,Red_beans_and_rice,95,ISIAFood_500
+654,Red_slaw,85,ISIAFood_500
+655,Refried_beans,90,ISIAFood_500
+656,Rendang,84,ISIAFood_500
+657,Rice_and_peas,90,ISIAFood_500
+658,Rice_ball,86,ISIAFood_500
+659,Rice_cakes,87,ISIAFood_500
+660,Rice_pudding,89,ISIAFood_500
+661,Rogan_josh,87,ISIAFood_500
+662,Rou_jia_mo,87,ISIAFood_500
+663,Rouladen,85,ISIAFood_500
+664,Salmon_pie,87,ISIAFood_500
+665,Sambar,83,ISIAFood_500
+666,Samgyetang,87,ISIAFood_500
+667,Samosa,83,ISIAFood_500
+668,Sapo_tahu,86,ISIAFood_500
+669,Sardine,84,ISIAFood_500
+670,Sashimi,84,ISIAFood_500
+671,Sauerbraten,88,ISIAFood_500
+672,Sausage_and_peppers,96,ISIAFood_500
+673,Sausage_bun,88,ISIAFood_500
+674,Sausage_roll,89,ISIAFood_500
+675,Sausage_sandwich,93,ISIAFood_500
+676,Sauteed_mushrooms,94,ISIAFood_500
+677,Scampi,83,ISIAFood_500
+678,Schweinshaxe,89,ISIAFood_500
+679,Seafood_boil,89,ISIAFood_500
+680,Seafood_pizza,90,ISIAFood_500
+681,Sesame_chicken,91,ISIAFood_500
+682,Shaker_Lemon_Pie,93,ISIAFood_500
+683,Shanghai_fried_noodles,99,ISIAFood_500
+684,She-crab_soup,90,ISIAFood_500
+685,Sheep's_trotters,93,ISIAFood_500
+686,Shrimp_ball,88,ISIAFood_500
+687,Shrimp_toast,89,ISIAFood_500
+688,Shuizhu,84,ISIAFood_500
+689,Sicilian_orange_salad,98,ISIAFood_500
+690,Sliced_fish_soup,93,ISIAFood_500
+691,Smoked_salmon,90,ISIAFood_500
+692,Soba,81,ISIAFood_500
+693,Soft-shell_crab,92,ISIAFood_500
+694,Sopa_de_Mandioca,93,ISIAFood_500
+695,Soused_herring,91,ISIAFood_500
+696,Spanish_rice,89,ISIAFood_500
+697,Spatzle,84,ISIAFood_500
+698,Spiced_beef,88,ISIAFood_500
+699,Spinach_salad,90,ISIAFood_500
+700,Spinach_soup,89,ISIAFood_500
+701,Squash_soup,88,ISIAFood_500
+702,Steak_tartare,90,ISIAFood_500
+703,Steamed_clams,90,ISIAFood_500
+704,Steamed_meatball,93,ISIAFood_500
+705,Steamed_rice,89,ISIAFood_500
+706,Stew_peas,86,ISIAFood_500
+707,Stinky_tofu,88,ISIAFood_500
+708,Stir-fried_tomato_and_scrambled_eggs,113,ISIAFood_500
+709,Strawberry_cake,92,ISIAFood_500
+710,Strawberry_cheesecake,98,ISIAFood_500
+711,Strawberry_ice_cream,97,ISIAFood_500
+712,Strawberry_jam,91,ISIAFood_500
+713,Strawberry_pie,91,ISIAFood_500
+714,Strawberry_sundae,94,ISIAFood_500
+715,Strawberry_tart,92,ISIAFood_500
+716,Stuffed_avocado,92,ISIAFood_500
+717,Stuffed_eggplant,93,ISIAFood_500
+718,Stuffed_mushrooms,94,ISIAFood_500
+719,Stuffed_peppers,92,ISIAFood_500
+720,Stuffed_tomatoes,93,ISIAFood_500
+721,Suanmeitang,88,ISIAFood_500
+722,Succotash,86,ISIAFood_500
+723,Suckling_pig,89,ISIAFood_500
+724,Svíčková,85,ISIAFood_500
+725,Sweet_potato_pie,93,ISIAFood_500
+726,Sweet_saffron_rice,95,ISIAFood_500
+727,Syrniki,84,ISIAFood_500
+728,Tabbouleh,86,ISIAFood_500
+729,Tacos,82,ISIAFood_500
+730,Tafelspitz,87,ISIAFood_500
+731,Takoyaki,85,ISIAFood_500
+732,Taro_dumpling,90,ISIAFood_500
+733,Tinga_dish,87,ISIAFood_500
+734,Tiramisu,85,ISIAFood_500
+735,Toad_in_the_hole,93,ISIAFood_500
+736,Tobiko,83,ISIAFood_500
+737,Tomato_and_egg_soup,96,ISIAFood_500
+738,Tomato_bredie,90,ISIAFood_500
+739,Tomato_omelette,92,ISIAFood_500
+740,Tomato_soup,88,ISIAFood_500
+741,Tonkatsu,85,ISIAFood_500
+742,Tonkotsu_ramen,91,ISIAFood_500
+743,Torta_caprese,90,ISIAFood_500
+744,Tostada,84,ISIAFood_500
+745,Tourtière,86,ISIAFood_500
+746,Tsukemono,86,ISIAFood_500
+747,Tuna_fish_sandwich,95,ISIAFood_500
+748,Tuna_salad,87,ISIAFood_500
+749,Turnip_cake,88,ISIAFood_500
+750,Twix,81,ISIAFood_500
+751,Unagi,82,ISIAFood_500
+752,Vegetarian_chili,93,ISIAFood_500
+753,Vichyssoise,88,ISIAFood_500
+754,Vindaloo,85,ISIAFood_500
+755,Vitello_tonnato,92,ISIAFood_500
+756,Wakame,83,ISIAFood_500
+757,Wenchang_chicken,93,ISIAFood_500
+758,White_boiled_shrimp,96,ISIAFood_500
+759,White_cut_chicken,94,ISIAFood_500
+760,Whitebait,86,ISIAFood_500
+761,Wonton_noodles,91,ISIAFood_500
+762,Wotou,82,ISIAFood_500
+763,Yeung_Chow_fried_rice,98,ISIAFood_500
+764,Youtiao,84,ISIAFood_500
+765,Yuxiangrousi,89,ISIAFood_500
+766,Zhajiangmian,89,ISIAFood_500
+767,Zongzi,83,ISIAFood_500
+768,Zurcher_Geschnetzeltes,99,ISIAFood_500
+769,hamburgers,87,ISIAFood_500
+770,kebab,82,ISIAFood_500
+771,Æbleflæsk,86,ISIAFood_500
+772,Çiğ_köfte,86,ISIAFood_500
+773,Barbecued red pork in sauce with rice,113,UECFood_256
+774,Caesar salad,105,UECFood_256
+775,Chicken Rice Curry With Coconut,105,UECFood_256
+776,Coconut milk-flavored crepes with shrimp and beef,112,UECFood_256
+777,Crispy Noodles,101,UECFood_256
+778,Deep Fried Chicken Wing,114,UECFood_256
+779,Egg Noodle In Chicken Yellow Curry,111,UECFood_256
+780,Fried spring rolls,105,UECFood_256
+781,Glutinous Rice Balls,107,UECFood_256
+782,Hue beef rice vermicelli soup,115,UECFood_256
+783,Japanese tofu and vegetable chowder,116,UECFood_256
+784,Japanese-style pancake,138,UECFood_256
+785,Pork Sticky Noodles,121,UECFood_256
+786,Pork with lemon,101,UECFood_256
+787,Rice crispy pork,118,UECFood_256
+788,Rice with roast duck,108,UECFood_256
+789,Shrimp patties,105,UECFood_256
+790,Small steamed savory rice pancake,107,UECFood_256
+791,Sour prawn soup,109,UECFood_256
+792,Steamed rice roll,106,UECFood_256
+793,Thai papaya salad,120,UECFood_256
+794,Vermicelli noodles with snails,102,UECFood_256
+795,Wonton soup,119,UECFood_256
+796,adobo,115,UECFood_256
+797,almond jelly,105,UECFood_256
+798,apple pie,102,UECFood_256
+799,ayam bakar,115,UECFood_256
+800,ayam goreng,104,UECFood_256
+801,babi guling,109,UECFood_256
+802,bagel,106,UECFood_256
+803,bak kut teh,108,UECFood_256
+804,baked salmon,110,UECFood_256
+805,ball shaped bun with pork,115,UECFood_256
+806,bean curd family style,106,UECFood_256
+807,beef bowl,168,UECFood_256
+808,beef curry,247,UECFood_256
+809,beef in oyster sauce,108,UECFood_256
+810,beef noodle,140,UECFood_256
+811,beef noodle soup,119,UECFood_256
+812,bibimbap,113,UECFood_256
+813,boiled chicken and vegetables,106,UECFood_256
+814,boiled fish,110,UECFood_256
+815,"boned, sliced Hainan-style chicken with marinated rice",113,UECFood_256
+816,braised pork meat ball with napa cabbage,119,UECFood_256
+817,broiled eel bowl,116,UECFood_256
+818,brownie,109,UECFood_256
+819,bubur ayam,109,UECFood_256
+820,cabbage roll,108,UECFood_256
+821,champon,107,UECFood_256
+822,charcoal-boiled pork neck,116,UECFood_256
+823,chicken cutlet,114,UECFood_256
+824,chicken nugget,104,UECFood_256
+825,chicken rice,101,UECFood_256
+826,chicken-'n'-egg on rice,122,UECFood_256
+827,chilled noodle,118,UECFood_256
+828,chinese pumpkin pie,103,UECFood_256
+829,chinese soup,166,UECFood_256
+830,chip butty,149,UECFood_256
+831,chop suey,101,UECFood_256
+832,chow mein,117,UECFood_256
+833,churro,116,UECFood_256
+834,clear soup,116,UECFood_256
+835,coconut milk soup,112,UECFood_256
+836,cold tofu,159,UECFood_256
+837,crape,102,UECFood_256
+838,cream puff,109,UECFood_256
+839,croissant,121,UECFood_256
+840,croquette,127,UECFood_256
+841,crullers,112,UECFood_256
+842,curry puff,114,UECFood_256
+843,custard tart,102,UECFood_256
+844,cutlet curry,143,UECFood_256
+845,dak galbi,106,UECFood_256
+846,dipping noodles,127,UECFood_256
+847,"dish consisting of stir-fried potato, eggplant and green pepper",120,UECFood_256
+848,doughnut,113,UECFood_256
+849,dried fish,111,UECFood_256
+850,dry curry,102,UECFood_256
+851,eels on rice,131,UECFood_256
+852,egg roll,110,UECFood_256
+853,egg sunny-side up,225,UECFood_256
+854,eggplant with garlic sauce,114,UECFood_256
+855,eight treasure rice,116,UECFood_256
+856,fine white noodles,119,UECFood_256
+857,fish ball soup,120,UECFood_256
+858,fish-shaped pancake with bean jam,123,UECFood_256
+859,french bread,106,UECFood_256
+860,french fries,154,UECFood_256
+861,french toast,103,UECFood_256
+862,fried chicken,155,UECFood_256
+863,fried fish,122,UECFood_256
+864,fried mussel pancakes,104,UECFood_256
+865,fried noodle,132,UECFood_256
+866,fried pork dumplings served in soup,117,UECFood_256
+867,fried pork in scoop,114,UECFood_256
+868,fried rice,170,UECFood_256
+869,fried shrimp,116,UECFood_256
+870,ganmodoki,114,UECFood_256
+871,ginger pork saute,118,UECFood_256
+872,glutinous oil rice,115,UECFood_256
+873,goya chanpuru,105,UECFood_256
+874,gratin,116,UECFood_256
+875,green curry,101,UECFood_256
+876,green salad,343,UECFood_256
+877,grilled eggplant,103,UECFood_256
+878,grilled pacific saury,182,UECFood_256
+879,grilled salmon,117,UECFood_256
+880,gulai,103,UECFood_256
+881,ham cutlet,115,UECFood_256
+882,hambarg steak,136,UECFood_256
+883,hamburger,234,UECFood_256
+884,haupia,104,UECFood_256
+885,hot & sour soup,118,UECFood_256
+886,"hot and sour, fish and vegetable ragout",112,UECFood_256
+887,hot dog,103,UECFood_256
+888,hot pot,108,UECFood_256
+889,inarizushi,112,UECFood_256
+890,jambalaya,110,UECFood_256
+891,jiaozi,168,UECFood_256
+892,jjigae,108,UECFood_256
+893,kamameshi,102,UECFood_256
+894,kaya toast,115,UECFood_256
+895,khao soi,119,UECFood_256
+896,kinpira-style sauteed burdock,112,UECFood_256
+897,kung pao chicken,112,UECFood_256
+898,kushikatu,103,UECFood_256
+899,laksa,104,UECFood_256
+900,lamb kebabs,116,UECFood_256
+901,lasagna,112,UECFood_256
+902,laulau,107,UECFood_256
+903,lemon fig jelly,110,UECFood_256
+904,lightly roasted fish,103,UECFood_256
+905,loco moco,113,UECFood_256
+906,lumpia,111,UECFood_256
+907,macaroni salad,110,UECFood_256
+908,malasada,115,UECFood_256
+909,mango pudding,104,UECFood_256
+910,meat loaf,114,UECFood_256
+911,mie ayam,108,UECFood_256
+912,mie goreng,105,UECFood_256
+913,minced meat cutlet,108,UECFood_256
+914,minced pork rice,112,UECFood_256
+915,minestrone,105,UECFood_256
+916,miso soup,729,UECFood_256
+917,mixed rice,139,UECFood_256
+918,moon cake,105,UECFood_256
+919,mozuku,102,UECFood_256
+920,muffin,113,UECFood_256
+921,mushroom risotto,115,UECFood_256
+922,nachos,105,UECFood_256
+923,namero,112,UECFood_256
+924,nanbanzuke,103,UECFood_256
+925,nasi campur,118,UECFood_256
+926,nasi goreng,111,UECFood_256
+927,nasi padang,110,UECFood_256
+928,nasi uduk,107,UECFood_256
+929,natto,148,UECFood_256
+930,noodles with fish curry,101,UECFood_256
+931,oatmeal,118,UECFood_256
+932,oden,113,UECFood_256
+933,okinawa soba,109,UECFood_256
+934,omelet,108,UECFood_256
+935,omelet,132,UECFood_256
+936,omelet with fried rice,127,UECFood_256
+937,oshiruko,109,UECFood_256
+938,oxtail soup,120,UECFood_256
+939,oyster omelette,103,UECFood_256
+940,paella,106,UECFood_256
+941,pancake,106,UECFood_256
+942,parfait,101,UECFood_256
+943,pho,118,UECFood_256
+944,pilaf,116,UECFood_256
+945,pizza,135,UECFood_256
+946,pizza toast,106,UECFood_256
+947,popcorn,117,UECFood_256
+948,pork belly,108,UECFood_256
+949,pork cutlet,104,UECFood_256
+950,pork cutlet on rice,151,UECFood_256
+951,pork fillet cutlet,116,UECFood_256
+952,pork loin cutlet,116,UECFood_256
+953,pork miso soup,118,UECFood_256
+954,pork satay,114,UECFood_256
+955,pot au feu,115,UECFood_256
+956,potage,114,UECFood_256
+957,potato salad,129,UECFood_256
+958,raisin bread,102,UECFood_256
+959,ramen noodle,354,UECFood_256
+960,rare cheese cake,113,UECFood_256
+961,rice,621,UECFood_256
+962,rice ball,109,UECFood_256
+963,rice gratin,110,UECFood_256
+964,rice gruel,117,UECFood_256
+965,rice vermicelli,102,UECFood_256
+966,roast chicken,111,UECFood_256
+967,roast duck,117,UECFood_256
+968,roll bread,108,UECFood_256
+969,salmon meuniere,105,UECFood_256
+970,salt & pepper fried shrimp with shell,120,UECFood_256
+971,samul,109,UECFood_256
+972,sandwiches,164,UECFood_256
+973,sashimi,125,UECFood_256
+974,sashimi bowl,148,UECFood_256
+975,sausage,119,UECFood_256
+976,sauteed spinach,103,UECFood_256
+977,sauteed vegetables,121,UECFood_256
+978,scone,104,UECFood_256
+979,scrambled egg,102,UECFood_256
+980,seasoned beef with potatoes,117,UECFood_256
+981,shortcake,104,UECFood_256
+982,shrimp with chill source,119,UECFood_256
+983,simmered pork,110,UECFood_256
+984,sirloin cutlet,141,UECFood_256
+985,soba noodle,164,UECFood_256
+986,spaghetti,152,UECFood_256
+987,spaghetti meat sauce,126,UECFood_256
+988,spam musubi,112,UECFood_256
+989,spicy chicken salad,104,UECFood_256
+990,spicy chili-flavored tofu,121,UECFood_256
+991,steak,109,UECFood_256
+992,steamed egg hotchpotch,109,UECFood_256
+993,steamed meat dumpling,116,UECFood_256
+994,steamed spareribs,117,UECFood_256
+995,stew,107,UECFood_256
+996,stewed pork leg,107,UECFood_256
+997,stinky tofu,104,UECFood_256
+998,stir-fried beef and peppers,108,UECFood_256
+999,stir-fried mixed vegetables,113,UECFood_256
+1000,sukiyaki,123,UECFood_256
+1001,sushi,154,UECFood_256
+1002,sushi bowl,112,UECFood_256
+1003,sweet and sour pork,106,UECFood_256
+1004,tacos,107,UECFood_256
+1005,takoyaki,135,UECFood_256
+1006,tanmen,112,UECFood_256
+1007,tempura,119,UECFood_256
+1008,tempura bowl,137,UECFood_256
+1009,tempura udon,107,UECFood_256
+1010,tensin noodle,113,UECFood_256
+1011,teriyaki grilled fish,106,UECFood_256
+1012,thinly sliced raw horsemeat,111,UECFood_256
+1013,three cup chicken,118,UECFood_256
+1014,tiramisu,103,UECFood_256
+1015,toast,219,UECFood_256
+1016,tortilla,103,UECFood_256
+1017,trunip pudding,106,UECFood_256
+1018,twice cooked pork,114,UECFood_256
+1019,udon noodle,153,UECFood_256
+1020,vegetable tempura,116,UECFood_256
+1021,waffle,103,UECFood_256
+1022,winter melon soup,119,UECFood_256
+1023,xiao long bao,115,UECFood_256
+1024,yakitori,112,UECFood_256
+1025,yellow curry,105,UECFood_256
+1026,yudofu,119,UECFood_256
+1027,zha jiang mian,111,UECFood_256
+1028,zoni,118,UECFood_256
+1029,apple_pie,1000,food_101
+1030,baby_back_ribs,1000,food_101
+1031,baklava,1000,food_101
+1032,beef_carpaccio,1000,food_101
+1033,beef_tartare,1000,food_101
+1034,beet_salad,1000,food_101
+1035,beignets,1000,food_101
+1036,bibimbap,1000,food_101
+1037,bread_pudding,1000,food_101
+1038,breakfast_burrito,1000,food_101
+1039,bruschetta,1000,food_101
+1040,caesar_salad,1000,food_101
+1041,cannoli,1000,food_101
+1042,caprese_salad,1000,food_101
+1043,carrot_cake,1000,food_101
+1044,ceviche,1000,food_101
+1045,cheese_plate,1000,food_101
+1046,cheesecake,1000,food_101
+1047,chicken_curry,1000,food_101
+1048,chicken_quesadilla,1000,food_101
+1049,chicken_wings,1000,food_101
+1050,chocolate_cake,1000,food_101
+1051,chocolate_mousse,1000,food_101
+1052,churros,1000,food_101
+1053,clam_chowder,1000,food_101
+1054,club_sandwich,1000,food_101
+1055,crab_cakes,1000,food_101
+1056,creme_brulee,1000,food_101
+1057,croque_madame,1000,food_101
+1058,cup_cakes,1000,food_101
+1059,deviled_eggs,1000,food_101
+1060,donuts,1000,food_101
+1061,dumplings,1000,food_101
+1062,edamame,1000,food_101
+1063,eggs_benedict,1000,food_101
+1064,escargots,1000,food_101
+1065,falafel,1000,food_101
+1066,filet_mignon,1000,food_101
+1067,fish_and_chips,1000,food_101
+1068,foie_gras,1000,food_101
+1069,french_fries,1000,food_101
+1070,french_onion_soup,1000,food_101
+1071,french_toast,1000,food_101
+1072,fried_calamari,1000,food_101
+1073,fried_rice,1000,food_101
+1074,frozen_yogurt,1000,food_101
+1075,garlic_bread,1000,food_101
+1076,gnocchi,1000,food_101
+1077,greek_salad,1000,food_101
+1078,grilled_cheese_sandwich,1000,food_101
+1079,grilled_salmon,1000,food_101
+1080,guacamole,1000,food_101
+1081,gyoza,1000,food_101
+1082,hamburger,1000,food_101
+1083,hot_and_sour_soup,1000,food_101
+1084,hot_dog,1000,food_101
+1085,huevos_rancheros,1000,food_101
+1086,hummus,1000,food_101
+1087,ice_cream,1000,food_101
+1088,lasagna,1000,food_101
+1089,lobster_bisque,1000,food_101
+1090,lobster_roll_sandwich,1000,food_101
+1091,macaroni_and_cheese,1000,food_101
+1092,macarons,1000,food_101
+1093,miso_soup,1000,food_101
+1094,mussels,1000,food_101
+1095,nachos,1000,food_101
+1096,omelette,1000,food_101
+1097,onion_rings,1000,food_101
+1098,oysters,1000,food_101
+1099,pad_thai,1000,food_101
+1100,paella,1000,food_101
+1101,pancakes,1000,food_101
+1102,panna_cotta,1000,food_101
+1103,peking_duck,1000,food_101
+1104,pho,1000,food_101
+1105,pizza,1000,food_101
+1106,pork_chop,1000,food_101
+1107,poutine,1000,food_101
+1108,prime_rib,1000,food_101
+1109,pulled_pork_sandwich,1000,food_101
+1110,ramen,1000,food_101
+1111,ravioli,1000,food_101
+1112,red_velvet_cake,1000,food_101
+1113,risotto,1000,food_101
+1114,samosa,1000,food_101
+1115,sashimi,1000,food_101
+1116,scallops,1000,food_101
+1117,seaweed_salad,1000,food_101
+1118,shrimp_and_grits,1000,food_101
+1119,spaghetti_bolognese,1000,food_101
+1120,spaghetti_carbonara,1000,food_101
+1121,spring_rolls,1000,food_101
+1122,steak,1000,food_101
+1123,strawberry_shortcake,1000,food_101
+1124,sushi,1000,food_101
+1125,tacos,1000,food_101
+1126,takoyaki,1000,food_101
+1127,tiramisu,1000,food_101
+1128,tuna_tartare,1000,food_101
+1129,waffles,1000,food_101
+1130,adobo,541,ifood_251
+1131,ambrosia_food,604,ifood_251
+1132,apple_pie,590,ifood_251
+1133,apple_turnover,547,ifood_251
+1134,applesauce,523,ifood_251
+1135,applesauce_cake,622,ifood_251
+1136,baby_back_rib,569,ifood_251
+1137,bacon_and_eggs,621,ifood_251
+1138,bacon_lettuce_tomato_sandwich,586,ifood_251
+1139,baked_alaska,514,ifood_251
+1140,baklava,583,ifood_251
+1141,barbecued_spareribs,575,ifood_251
+1142,barbecued_wing,636,ifood_251
+1143,beef_bourguignonne,488,ifood_251
+1144,beef_carpaccio,531,ifood_251
+1145,beef_stroganoff,562,ifood_251
+1146,beef_tartare,437,ifood_251
+1147,beef_wellington,496,ifood_251
+1148,beet_salad,664,ifood_251
+1149,beignet,596,ifood_251
+1150,bibimbap,536,ifood_251
+1151,biryani,582,ifood_251
+1152,blancmange,383,ifood_251
+1153,boiled_egg,582,ifood_251
+1154,boston_cream_pie,564,ifood_251
+1155,bread_pudding,633,ifood_251
+1156,brisket,552,ifood_251
+1157,bruschetta,608,ifood_251
+1158,bubble_and_squeak,543,ifood_251
+1159,buffalo_wing,513,ifood_251
+1160,burrito,638,ifood_251
+1161,caesar_salad,571,ifood_251
+1162,cannelloni,580,ifood_251
+1163,cannoli,587,ifood_251
+1164,caprese_salad,610,ifood_251
+1165,carbonnade_flamande,491,ifood_251
+1166,carrot_cake,602,ifood_251
+1167,casserole,686,ifood_251
+1168,ceviche,650,ifood_251
+1169,cheesecake,463,ifood_251
+1170,chicken_cordon_bleu,603,ifood_251
+1171,chicken_curry,512,ifood_251
+1172,chicken_kiev,553,ifood_251
+1173,chicken_marengo,413,ifood_251
+1174,chicken_provencale,508,ifood_251
+1175,chicken_quesadilla,580,ifood_251
+1176,chicken_wing,551,ifood_251
+1177,chiffon_cake,671,ifood_251
+1178,chili,553,ifood_251
+1179,chocolate_cake,419,ifood_251
+1180,chocolate_mousse,634,ifood_251
+1181,chop_suey,549,ifood_251
+1182,chow_mein,560,ifood_251
+1183,churro,686,ifood_251
+1184,clam_chowder,483,ifood_251
+1185,clam_food,626,ifood_251
+1186,club_sandwich,561,ifood_251
+1187,cockle_food,618,ifood_251
+1188,coconut_cake,609,ifood_251
+1189,coffee_cake,676,ifood_251
+1190,compote,668,ifood_251
+1191,confit,558,ifood_251
+1192,coq_au_vin,518,ifood_251
+1193,coquilles_saint_jacques,570,ifood_251
+1194,cottage_pie,571,ifood_251
+1195,couscous,651,ifood_251
+1196,crab_cake,587,ifood_251
+1197,crab_food,644,ifood_251
+1198,crayfish_food,595,ifood_251
+1199,creme_brulee,600,ifood_251
+1200,croque_madame,578,ifood_251
+1201,croquette,623,ifood_251
+1202,cruller,495,ifood_251
+1203,crumb_cake,663,ifood_251
+1204,crumpet,553,ifood_251
+1205,cupcake,504,ifood_251
+1206,custard,598,ifood_251
+1207,deviled_egg,632,ifood_251
+1208,dolmas,588,ifood_251
+1209,donut,573,ifood_251
+1210,dumpling,640,ifood_251
+1211,eccles_cake,438,ifood_251
+1212,edamame,587,ifood_251
+1213,egg_roll,621,ifood_251
+1214,eggs_benedict,586,ifood_251
+1215,enchilada,644,ifood_251
+1216,entrecote,463,ifood_251
+1217,escargot,467,ifood_251
+1218,falafel,542,ifood_251
+1219,farfalle,617,ifood_251
+1220,fettuccine,592,ifood_251
+1221,filet_mignon,526,ifood_251
+1222,fish_and_chips,480,ifood_251
+1223,fish_stick,503,ifood_251
+1224,flan,505,ifood_251
+1225,foie_gras,549,ifood_251
+1226,fondue,586,ifood_251
+1227,french_fries,368,ifood_251
+1228,french_onion_soup,486,ifood_251
+1229,french_toast,611,ifood_251
+1230,fried_calamari,487,ifood_251
+1231,fried_egg,487,ifood_251
+1232,fried_rice,569,ifood_251
+1233,frittata,576,ifood_251
+1234,fritter,642,ifood_251
+1235,frozen_yogurt,528,ifood_251
+1236,fruitcake,454,ifood_251
+1237,galantine,476,ifood_251
+1238,garlic_bread,554,ifood_251
+1239,gingerbread,563,ifood_251
+1240,gnocchi,644,ifood_251
+1241,greek_salad,527,ifood_251
+1242,grilled_cheese_sandwich,610,ifood_251
+1243,grilled_salmon,550,ifood_251
+1244,guacamole,523,ifood_251
+1245,gyoza,566,ifood_251
+1246,gyro,490,ifood_251
+1247,haggis,430,ifood_251
+1248,ham_and_eggs,582,ifood_251
+1249,ham_sandwich,536,ifood_251
+1250,hamburger,326,ifood_251
+1251,hot_and_sour_soup,399,ifood_251
+1252,hot_dog,375,ifood_251
+1253,huevos_rancheros,504,ifood_251
+1254,huitre,686,ifood_251
+1255,hummus,559,ifood_251
+1256,ice_cream,538,ifood_251
+1257,jambalaya,482,ifood_251
+1258,jerky,491,ifood_251
+1259,kabob,569,ifood_251
+1260,kedgeree,421,ifood_251
+1261,knish,388,ifood_251
+1262,lasagna,651,ifood_251
+1263,limpet_food,560,ifood_251
+1264,linguine,599,ifood_251
+1265,lobster_bisque,390,ifood_251
+1266,lobster_food,559,ifood_251
+1267,lobster_roll_sandwich,477,ifood_251
+1268,lobster_thermidor,370,ifood_251
+1269,lutefisk,346,ifood_251
+1270,macaron,688,ifood_251
+1271,macaroni_and_cheese,643,ifood_251
+1272,manicotti,500,ifood_251
+1273,marble_cake,83,ifood_251
+1274,matzo_ball,382,ifood_251
+1275,meat_loaf_food,567,ifood_251
+1276,meatball,601,ifood_251
+1277,miso_soup,491,ifood_251
+1278,moo_goo_gai_pan,388,ifood_251
+1279,mostaccioli,432,ifood_251
+1280,moussaka,450,ifood_251
+1281,mussel,540,ifood_251
+1282,nacho,576,ifood_251
+1283,omelette,600,ifood_251
+1284,onion_rings,554,ifood_251
+1285,orzo,665,ifood_251
+1286,osso_buco,457,ifood_251
+1287,oyster,563,ifood_251
+1288,pad_thai,568,ifood_251
+1289,paella,501,ifood_251
+1290,pancake,420,ifood_251
+1291,panna_cotta,597,ifood_251
+1292,pate,513,ifood_251
+1293,pavlova,509,ifood_251
+1294,peach_melba,518,ifood_251
+1295,peking_duck,499,ifood_251
+1296,penne,517,ifood_251
+1297,pepper_steak,436,ifood_251
+1298,pho,399,ifood_251
+1299,pilaf,473,ifood_251
+1300,pirogi,436,ifood_251
+1301,pizza,396,ifood_251
+1302,poached_egg,509,ifood_251
+1303,poi,502,ifood_251
+1304,pork_chop,523,ifood_251
+1305,porridge,486,ifood_251
+1306,potpie,482,ifood_251
+1307,pound_cake,551,ifood_251
+1308,poutine,409,ifood_251
+1309,prime_rib,451,ifood_251
+1310,profiterole,535,ifood_251
+1311,pulled_pork_sandwich,525,ifood_251
+1312,ramen,455,ifood_251
+1313,ravioli,524,ifood_251
+1314,red_velvet_cake,427,ifood_251
+1315,reuben,494,ifood_251
+1316,rigatoni,513,ifood_251
+1317,risotto,540,ifood_251
+1318,rissole,442,ifood_251
+1319,rock_cake,481,ifood_251
+1320,roulade,517,ifood_251
+1321,rugulah,387,ifood_251
+1322,salisbury_steak,408,ifood_251
+1323,samosa,494,ifood_251
+1324,sashimi,501,ifood_251
+1325,sauerbraten,342,ifood_251
+1326,sauerkraut,478,ifood_251
+1327,sausage_roll,488,ifood_251
+1328,savarin,502,ifood_251
+1329,scallop,511,ifood_251
+1330,scampi,516,ifood_251
+1331,schnitzel,423,ifood_251
+1332,scotch_egg,446,ifood_251
+1333,scrambled_eggs,486,ifood_251
+1334,scrapple,347,ifood_251
+1335,seaweed_salad,383,ifood_251
+1336,shirred_egg,482,ifood_251
+1337,shrimp_and_grits,446,ifood_251
+1338,sloppy_joe,476,ifood_251
+1339,souffle,530,ifood_251
+1340,spaghetti_bolognese,411,ifood_251
+1341,spaghetti_carbonara,446,ifood_251
+1342,sponge_cake,482,ifood_251
+1343,spring_roll,528,ifood_251
+1344,steak_au_poivre,423,ifood_251
+1345,steak_tartare,316,ifood_251
+1346,strawberry_shortcake,496,ifood_251
+1347,streusel,464,ifood_251
+1348,strudel,579,ifood_251
+1349,stuffed_cabbage,496,ifood_251
+1350,stuffed_peppers,533,ifood_251
+1351,stuffed_tomato,506,ifood_251
+1352,succotash,431,ifood_251
+1353,sukiyaki,449,ifood_251
+1354,sushi,443,ifood_251
+1355,syllabub,458,ifood_251
+1356,taco,487,ifood_251
+1357,tagliatelle,462,ifood_251
+1358,takoyaki,424,ifood_251
+1359,tamale,443,ifood_251
+1360,tamale_pie,436,ifood_251
+1361,tapenade,489,ifood_251
+1362,tempura,559,ifood_251
+1363,tenderloin,560,ifood_251
+1364,terrine,595,ifood_251
+1365,tetrazzini,460,ifood_251
+1366,tiramisu,471,ifood_251
+1367,toad_in_the_hole,400,ifood_251
+1368,torte,618,ifood_251
+1369,tortellini,492,ifood_251
+1370,tostada,518,ifood_251
+1371,tuna_tartare,470,ifood_251
+1372,upside_down_cake,536,ifood_251
+1373,veal_cordon_bleu,300,ifood_251
+1374,vermicelli,470,ifood_251
+1375,victoria_sandwich,468,ifood_251
+1376,vol_au_vent,504,ifood_251
+1377,waffle,420,ifood_251
+1378,welsh_rarebit,360,ifood_251
+1379,wonton,561,ifood_251
+1380,ziti,443,ifood_251
