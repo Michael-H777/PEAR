@@ -30,20 +30,63 @@
 		  bottom: 50%;
 		  left: 25%;
 		}
-		
+
+		.button{
+		  witdth:300px;
+		  height:50px;
+		  //border-radius:10em;	
+		  vertical-align: bottom;	
+		  bottom: 0;	
+
+		}
+		.uploadstyle>input {
+            		display:none;
+        	}
+		.uploadstyle img {
+            		width:80%;
+        	}
+		.valignbottom{
+			position:absolute;
+			bottom:2px;
+		}
+		.valignbottom img{
+			width:19%;
+			height:auto;
+		}
 		@keyframes spin {
 		  0% { transform: rotate(0deg); }
 		  100% { transform: rotate(360deg); }
 		}
+	#logo{ 
+	position:fixed; 
+	top:0; 
+	left:150; 
+	} 
     </style>
 </head>
 <body>
-<center>
-<div class="photo" id="preview"></div>
-<div class="loader" id="loadinger"></div>
-<input type="file" accept="image/*" id="uploadImg" name="uploadImg">
-<input type="button" value="上传" id="btnSubmit">	
-</center>
+	<body bgcolor="transparent">
+	<div id="logo"> 
+	<img src="./static/img/PEAR.png" width="45"> 
+	</div>
+	<h2 align="center">WELCOME TO PEAR</h2>	
+	<p style="text-align: center;">
+		<img src="./static/img/slogan.png" width="330">
+	<center>
+		<div class="photo" id="preview"></div>
+		<div class="loader" id="loadinger"></div>
+		<div class="uploadstyle">
+			<label for="uploadImg">
+			<img src="./static/img/uploadPlus.png" id="uploadicon">
+			</label>
+		</div>
+	<div class="valignbottom">
+
+		<img src="./static/img/uploadCloud.png" width="2" id="btnSubmit">
+
+	</div>
+	</center>
+
 </body>
 </html>
 <script>
@@ -59,6 +102,7 @@
 
 	// 拍照选择完成的回调
     function handleFileImg() {
+	uploadicon.style.display='none'
 		// 为了获取图片的本地路径
         window.URL = window.URL || window.webkitURL;
 		// 获取移动端类型Android   iPhone  ipad
@@ -104,7 +148,7 @@
         } else {
 
             //判断文件类型是否为图片
-            if (!selected_file.type.match(/image.*/)) return false;
+            //if (!selected_file.type.match(/image.*/)) return false;
             
 
             var img = document.createElement('img');
@@ -134,17 +178,17 @@
 		var createNonceStr = Math.random().toString(36).substr(2, 15);
 		var cp_timestamp=new Date().getTime().toString();
 		var imgfile = cp_timestamp+createNonceStr;
-		console.log(imgfile)
-        xmlhttp.open('post', '/', true);
-        xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded;charset=utf-8');
-        xmlhttp.setRequestHeader('X_Requested-With', 'XMLHttpRequest');
+		console.log(imgfile);
+        xmlhttp.open('POST', '/', true);
+        xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+        //xmlhttp.setRequestHeader('X_Requested-With', 'XMLHttpRequest');
         xmlhttp.send('myimg=' + encodeURIComponent(dataurl)+'&imgfile=' + encodeURIComponent(imgfile));
         xmlhttp.onreadystatechange = function () {
             if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
                 console.log(xmlhttp.responseText)
             }
         }
-		loadinger.style.display='block'
+		loadinger.style.display='block';
 		var url = '/result';
 		var form = $('<form action="' + url + '" method="post">' +
 		  '<input type="hidden" name="imgfile" value="' + imgfile + '" />' +
