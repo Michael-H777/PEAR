@@ -1,6 +1,6 @@
 import os 
 import re 
-from random import randint 
+from random import randint, choice
 
 from tqdm import tqdm 
 from random import shuffle 
@@ -325,7 +325,7 @@ class PatchAugmentor:
         data[:,:,2] = image[2]
         return data 
 
-    def augment(self, image):
+    def augment(self, image, advance=True):
         
         if randint(0, 1): 
             image = np.flipud(image)
@@ -345,8 +345,10 @@ class PatchAugmentor:
         elif rot_mode == 2: 
             image = np.rot90(image)
             image = np.rot90(image)
-            image = np.rot90(image)
+            image = np.rot90(image)            
+        return self.advanced_augment(image) if advance == True else image 
         
+    def advanced_augment(self, image):
         mask_mode = randint(0, 2)
         if mask_mode == 0: 
             x_index = randint(0, image.shape[0]-32)
@@ -354,7 +356,8 @@ class PatchAugmentor:
             image[:, x_index:x_index+32, y_index:y_index+32] = 0 
         elif mask_mode == 1: 
             percentage = randint(0, 10)
-            mask = np.random.randint(low=0, high=10, size=(3, 8, 8, 1)) >= percentage
+            mask_size = choice([4, 8, 16])
+            mask = np.random.randint(low=0, high=10, size=(3, mask_size, mask_size, 1)) >= percentage
             image = self.mask_image(image, mask)
         
         pad_mode = randint(0, 2)

@@ -41,6 +41,16 @@ qsub -I -l qos=mgc_open -l nodes=1:ppn=4:gpus=4:gc_v100nvl -l walltime=72:00:00 
 def train(rank, options):
 
     os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
+    if options.DDP:
+        torch.cuda.set_device(rank)
+        os.environ['MASTER_ADDR'] = 'localhost'
+        os.environ['MASTER_PORT'] = '10000'
+        
+        torch.distributed.init_process_group(
+            backend='nccl',
+            world_size=options.gpus,
+            rank=rank
+        )
 
     # initialize data
     train_labaled_dataset = data.DataSet(filename="labeled_train.h5", percentage=(0, 0.7), augment=True)
@@ -72,7 +82,7 @@ def train(rank, options):
     )
     
     # initialize model
-    model = candidate.single_task(name='convnetXT', steps=len(train_labaled_loader) * options.max_epoch)
+    model = candidate.single_task(name='convnetXT', ddp=options.DDP, steps=len(train_labaled_loader) * options.max_epoch)
 
     # initialize new folder for logs, only do this when folder not exist
     time = datetime.now().strftime("%Y_%b_%d_%p_%I_%M_%S")
@@ -142,4 +152,7 @@ if __name__ == "__main__":
         options.epoch_updates = 10
         options.batch_size = 4
 
-    train(0, options)
+    if options.DDP:
+        torch.multiprocessing.spawn(train, args=(options, ), nprocs=options.gpus)
+    else: 
+        train(0, options)

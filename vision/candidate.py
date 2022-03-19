@@ -4,13 +4,17 @@ from torchvision.models import convnext_base
 
 class single_task:
     
-    def __init__(self, *, name, steps):
+    def __init__(self, *, name, ddp, steps):
         self.name = self.__class__.__name__ if name is None else name
 
         self.update_at_step = 64
         self.step_counter = cycle(list(range(1, self.update_at_step+1)))
         
-        self.model = convnext_base(pretrained=True).cuda()
+        model = convnext_base(pretrained=True)
+        if ddp: 
+            self.model = torch.nn.parallel.DistributedDataParallel(model.cuda())
+        else:
+            self.model = torch.nn.DataParallel(model).cuda()
         self.loss = torch.nn.CrossEntropyLoss() 
         self.optimizer = torch.optim.Adam(self.model.parameters())
         self.scaler = torch.cuda.amp.GradScaler()
