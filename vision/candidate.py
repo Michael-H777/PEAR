@@ -7,6 +7,7 @@ class single_task:
     def __init__(self, *, name, ddp, steps):
         self.name = self.__class__.__name__ if name is None else name
 
+        self.ddp = ddp 
         self.update_at_step = 64
         self.step_counter = cycle(list(range(1, self.update_at_step+1)))
         
@@ -31,6 +32,7 @@ class single_task:
             self.scaler.update() 
             self.scheduler.step() 
             self.optimizer.zero_grad()
+                
         return self.current_lr
 
     @torch.no_grad()
