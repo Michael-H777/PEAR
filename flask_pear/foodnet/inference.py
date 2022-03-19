@@ -13,7 +13,8 @@ def load_model(path):
 
 def forward(model, image): 
     image = cv2.resize(image, (256, 256), interpolation=cv2.INTER_CUBIC)
-    image = (image-127.2) / np.std(list(range(256)))
+    #image = (image-127.2) / np.std(list(range(256)))
+    image = image / 255
     
     data = np.zeros((1, 3, 256, 256), dtype=np.float32)
     data[0,0] = image[:,:,0]
