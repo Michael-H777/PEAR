@@ -23,7 +23,10 @@
 	
 	<div class="factPanel" style="width:80%;">
 		<h4>Total calories:</h4>
-		<center><img src="./static/img/resultcircle.png" style="width:50%;"></center>
+		
+		<form name="Form" action="/" method="POST">
+		<input type="image" src="./static/img/resultcircle.png" style="width:50%;" border="0" οnclick="this.form.reset()">
+		</form>
 		<h4>Nutrition summary:</h4>
 			<table class="generic spaced">
 			<tr>
