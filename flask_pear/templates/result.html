@@ -1,15 +1,62 @@
 <!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
 <html>
+	<link rel="stylesheet" href="https://a.ftscrt.com/static/css/default_35.css" type="text/css"/>
+	<link rel="stylesheet" href="https://a.ftscrt.com/static/css/nutrition_facts.css" type="text/css"/><link rel="stylesheet" href="https://a.ftscrt.com/static/css/food/details_2.css" type="text/css"/><link rel="stylesheet" href="https://a.ftscrt.com/static/css/food/finder.css" type="text/css"/><link rel="stylesheet" href="https://a.ftscrt.com/static/css/rdi/rdi_2.css" type="text/css"/><link rel="stylesheet" href="https://a.ftscrt.com/static/css/food/foodquicksearch_auto.css" type="text/css"/>
+
+	<style>
+	    .resultimage {
+	        width: 70%;
+	        padding: 10px;
+	        box-sizing: border-box;
+			border-radius:30px;
+	    }
+		
+	</style>
    <body>
    <center>	
-   <p> This is a: {{ class_name}} </p>
-   <p> Calories: {{ calories}} </p>
-   <p> Fat: {{ fat}} </p>
-   <p> Carbs: {{ carbs}} </p>
-   <p> Protein: {{ protein}} </p>
-   <p> Summary: {{ summary}} </p>
-   <img src={{ result }} width="80%">
+    <h1 style="color:"> {{ class_name}}</h1>
+
+	<center><img src={{result}} class="resultimage"></center>
+
+	
+	<div class="factPanel" style="width:80%;">
+		<h4>Total calories:</h4>
+		<center><img src="./static/img/resultcircle.png" style="width:50%;"></center>
+		<h4>Nutrition summary:</h4>
+			<table class="generic spaced">
+			<tr>
+			<td class="fact">
+				<div class="factTitle">Calories</div>
+					<div class="factValue">{{ calories}} Kcal</div>
+			</td>
+			<td></td>
+			<td class="fact">
+				<div class="factTitle">Fat</div>
+					<div class="factValue">{{ fat}}</div>
+			</td>
+			<td></td>
+			<td class="fact">
+				<div class="factTitle">Carbs</div>
+					<div class="factValue">{{ carbs}}</div>
+			</td>
+			<td></td>
+			<td class="fact">
+				<div class="factTitle">Protein</div>
+					<div class="factValue">{{ protein}}</div>
+				</td>
+			</tr>
+			</table>
+			<table class="generic spaced">
+				<tr>
+				<td>{{ summary}}</td>
+				</tr>
+			</table>
+			</div>
+   
+   
    </center>
    </body>
 </html>
+

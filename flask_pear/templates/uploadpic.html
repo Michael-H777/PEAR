@@ -179,7 +179,9 @@
 	var cp_timestamp=new Date().getTime().toString();
 	var imgfile = cp_timestamp+createNonceStr;
 	console.log(imgfile);
+	loadinger.style.display='block'
 	redirectPost('/result', { myimg: dataurl,imgfile:encodeURIComponent(imgfile) });
+	
         
         
 	function redirectPost(url, data) {
