@@ -8,6 +8,8 @@ from foodnet.food import outputimage,outputimage_test
 app = Flask(__name__)
 server ="192.168.1.126"
 
+import pandas as pd
+df=pd.read_csv('./static/class_result_nutrition.csv')
 
 @app.route('/',methods = ['POST', 'GET'])
 def upload():
@@ -18,17 +20,19 @@ def result():
    if request.method=="POST":
       imgdata=request.form["myimg"]
       imgfile=request.form["imgfile"]
-      print(imgdata)
       imgdata=base64.b64decode(imgdata)
       with open("./static/images/"+imgfile+".png","wb") as f:
          f.write(imgdata)
       #output_file, item_class=outputimage(imgfile)
       
       output_file, item_class=outputimage_test(imgfile)
+      item_message=df.iloc[0]
       
-      print(item_class)
       path_to_file="static/images/"+imgfile+".png"
-   return render_template("result.html",result=path_to_file,message=item_class)
+   return render_template("result.html",result=path_to_file,class_name=item_message['class_name'],
+                          calories=item_message['calories'],fat=item_message['fat'],
+                          carbs=item_message['carbs'],protein=item_message['protein'],
+                          summary=item_message['summary'],more=item_message['more'],)
          
 if __name__ == '__main__':
 
