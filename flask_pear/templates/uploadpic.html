@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 
-    <title>图片上传</title>
+    <title>Recognition</title>
     <style>
         #preview {
             width: 100%;
@@ -65,22 +65,23 @@
 
 	#content img {
     	position: absolute;
-   	top: 0px;
+		top: 0px;
     	right: 0px;
+		width: 45px;
 	}
     </style>
 </head>
 <body>
 	<body bgcolor="transparent">
 	<div id="logo"> 
-	<img src="./static/img/PEAR.png" width="45"> 
+	<img src="./static/img/PEAR.png" width="45px"> 
 	</div>
 	<h2 align="center">WELCOME TO PEAR</h2>	
 	<p style="text-align: center;">
 		<img src="./static/img/slogan.png" width="330">
-	<div id="content">
-   		<img src="./static/img/three dots.png">
-	</div>
+	<a id="content" href="{{url_for('upload1')}}">
+   		<img src="./static/img/three dots.png" >
+	</a>
 	<center>
 		<div class="photo" id="preview"></div>
 		<div class="loader" id="loadinger"></div>
@@ -190,11 +191,7 @@
 	console.log(imgfile);
 	loadinger.style.display='block'
 	redirectPost('/result', { myimg: dataurl,imgfile:encodeURIComponent(imgfile) });
-<<<<<<< Updated upstream
-	
-=======
-	loadinger.style.display='block'
->>>>>>> Stashed changes
+
         
         
 	function redirectPost(url, data) {

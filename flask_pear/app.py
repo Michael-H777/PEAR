@@ -33,7 +33,22 @@ def result():
                           calories=item_message['calories'],fat=item_message['fat'],
                           carbs=item_message['carbs'],protein=item_message['protein'],
                           summary=item_message['summary'],more=item_message['more'],)
-         
+
+@app.route('/uploadpic1',methods = ['POST', 'GET'])
+def upload1():
+   return render_template('uploadpic 1.html')
+@app.route('/uploadpic2',methods = ['POST', 'GET'])
+def upload2():
+   return render_template('uploadpic 2.html')
+@app.route('/uploadpic3',methods = ['POST', 'GET'])
+def upload3():
+   return render_template('uploadpic 3.html')
+@app.route('/uploadpic4',methods = ['POST', 'GET'])
+def upload4():
+   return render_template('uploadpic 4.html')
+@app.route('/uploadpic5',methods = ['POST', 'GET'])
+def upload5():
+   return render_template('uploadpic 5.html')
 if __name__ == '__main__':
 
    #from foodnet.inference import load_model

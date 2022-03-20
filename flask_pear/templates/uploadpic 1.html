@@ -70,7 +70,7 @@
 	<body bgcolor="transparent">
 	<p style="text-align: center;">
 	<div id="content">
-   		<img src="./static/img/back.png" width="100">
+   		<a href="{{url_for('upload2')}}"><img src="./static/img/back.png" width="100"></a>
 	</div>
 	<center>
 
@@ -78,15 +78,12 @@
 		<div class="photo" id="preview"></div>
 		<div class="loader" id="loadinger"></div>
 		<div class="uploadstyle">
-			<input type="file" accept="image/*" id="uploadImg" />
-			<label for="uploadImg">
-			<img src="./static/img/signin.png" id="uploadicon">
-			<img src="./static/img/setgoal.png" id="uploadicon">
-			<img src="./static/img/trackdiet.png" id="uploadicon">
+			<a href="{{url_for('upload2')}}"><img src="./static/img/signin.png" id="uploadicon"></a>
+			<a href="{{url_for('upload3')}}"><img src="./static/img/setgoal.png" id="uploadicon"></a>
+			<a href="{{url_for('upload4')}}"><img src="./static/img/trackdiet.png" id="uploadicon"></a>
 			<img src="./static/img/aboutP.png" id="uploadicon">
-			<img src="./static/img/moretools.png" id="uploadicon">
-			<img src="./static/img/quicksearch.png" id="uploadicon">
-			</label>
+			<a href="{{url_for('upload5')}}"><img src="./static/img/moretools.png" id="uploadicon"></a>
+			<a href="{{url_for('upload')}}"><img src="./static/img/quicksearch.png" id="uploadicon"></a>
 		</div>
 	</center>
 

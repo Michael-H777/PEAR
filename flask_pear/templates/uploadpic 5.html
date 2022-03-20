@@ -70,7 +70,7 @@
 	<body bgcolor="transparent">
 	<p style="text-align: center;">
 	<div id="content">
-   		<img src="./static/img/back.png" width="100">
+   		<a href="{{url_for('upload1')}}"><img src="./static/img/back.png" width="100"></a>
 	</div>
 	<center>
 
@@ -78,8 +78,6 @@
 		<div class="photo" id="preview"></div>
 		<div class="loader" id="loadinger"></div>
 		<div class="uploadstyle">
-			<input type="file" accept="image/*" id="uploadImg" />
-			<label for="uploadImg">
 			<img src="./static/img/bmi.png" id="uploadicon">
 
 			<img src="./static/img/transp.png" id="uploadicon" height="30">
@@ -90,7 +88,6 @@
 
 			<img src="./static/img/transp.png" id="uploadicon" height="30">
 			<img src="./static/img/waterin.png" id="uploadicon">
-			</label>
 		</div>
 	</center>
 
