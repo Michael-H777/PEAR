@@ -14,3 +14,16 @@ def outputimage(imgfile): # image
    
    return output_file, result
 
+def outputimage_test(imgfile): # image 
+   input_file="./static/images/"+imgfile+".png"
+   # input_file="./static/img/test3.jpg"
+   output_file="./static/images/"+imgfile+".png"
+   path_to_txt="./static/images/"+imgfile+"_result.txt"
+   img = cv2.imread(input_file)
+   
+   time.sleep(2)
+   
+   return output_file, 1
+
+
+
