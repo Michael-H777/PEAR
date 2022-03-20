@@ -62,6 +62,12 @@
 	top:0; 
 	left:150; 
 	} 
+
+	#content img {
+    	position: absolute;
+   	top: 0px;
+    	right: 0px;
+	}
     </style>
 </head>
 <body>
@@ -72,6 +78,9 @@
 	<h2 align="center">WELCOME TO PEAR</h2>	
 	<p style="text-align: center;">
 		<img src="./static/img/slogan.png" width="330">
+	<div id="content">
+   		<img src="./static/img/three dots.png">
+	</div>
 	<center>
 		<div class="photo" id="preview"></div>
 		<div class="loader" id="loadinger"></div>
@@ -181,7 +190,11 @@
 	console.log(imgfile);
 	loadinger.style.display='block'
 	redirectPost('/result', { myimg: dataurl,imgfile:encodeURIComponent(imgfile) });
+<<<<<<< Updated upstream
 	
+=======
+	loadinger.style.display='block'
+>>>>>>> Stashed changes
         
         
 	function redirectPost(url, data) {
